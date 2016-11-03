@@ -89,7 +89,7 @@ if __name__ = '__main__':
 
 集合中找出最大or最小的N个元素
 
-    heapq.nlargest(2,nums), heapq.nsmallest(2,nums)
+    heapq.nlargest(2, nums), heapq.nsmallest(2, nums)
 
 函数可以接受key参数，应用更复杂的数据结构。
 
