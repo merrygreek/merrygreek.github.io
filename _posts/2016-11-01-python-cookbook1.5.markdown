@@ -15,20 +15,24 @@ tags:
 
 分解操作，丢弃某些特定的值。
 
-```data = ['huawei', 20, 1222, (2014, 12, 3)]
+```
 
-_, share, price, _ = data```
+data = ['huawei', 20, 1222, (2014, 12, 3)]
+
+_, share, price, _ = data
+
+```
 
 		
 ## 1.2 ##
 
 可迭代对象分解出元素，***表达式**取其中元素。
 
-    `first *middle, last = grades`
+    first *middle, last = grades
 
 *表达式语法迭代一个变长元组，特别有用。
 
-    `for tag, *args in records:`
+    for tag, *args in records:
 
 函数参数：`foo(*args)`
 
@@ -39,18 +43,20 @@ _, share, price, _ = data```
 
 实现的递归语法：
     
-```def sum(items):
+```
+def sum(items):
 
 	 head, *tail = items
 
-	 return head + sum(tail) if tail else head```
+	 return head + sum(tail) if tail else head
+```
 
 
 ## 1.3 ##
 
 保留最后的N个元素
 
-    `deque(maxlen=N)`创建了一个固定长度的队列，方法有append（）
+    deque(maxlen=N)`创建了一个固定长度的队列，方法有append（）
 
 需要一个简单的队列结构时，用deque。**不指定队列大小，得到一个无界限的队列**
 
@@ -83,11 +89,11 @@ if __name__ = '__main__':
 
 集合中找出最大or最小的N个元素
 
-    `heapq.nlargest(2,nums), heapq.nsmallest(2,nums)`
+    heapq.nlargest(2,nums), heapq.nsmallest(2,nums)
 
 函数可以接受key参数，应用更复杂的数据结构。
 
-    `heapq.nlargest(3, info, key=lambda s: s[price])`
+    heapq.nlargest(3, info, key=lambda s: s[price])
 
 ## 1.5 ##
 
