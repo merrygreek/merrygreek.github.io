@@ -1,12 +1,12 @@
 ---
-layout:		post
-title:		"cookbook_1.5"
-date:		2016-11-1
-author:		"Deng"
-header-img:	""
+layout:     post
+title:      "python.cookbook-1.5"
+subtitle:   "归纳笔记"
+date:       2016-11-01
+author:     "Deng"
+header-img: "img/post-bg-python.jpg"
 tags:
-	- python-cookbook
-
+    - python
 ---
 
 
