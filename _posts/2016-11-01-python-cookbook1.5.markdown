@@ -28,7 +28,7 @@ _, share, price, _ = data
 
 可迭代对象分解出元素，***表达式**取其中元素。
 
-    first *middle, last = grades
+    first, *middle, last = grades
 
 *表达式语法迭代一个变长元组，特别有用。
 
@@ -37,7 +37,8 @@ _, share, price, _ = data
 函数参数：`foo(*args)`
 
 与字符串处理相结合：
-    `uname, *fields, homedir, sh = line.split(':')`
+    
+`uname, *fields, homedir, sh = line.split(':')`
 
 特定位置丢弃：`name, *_, (*_, year) = record`
 
@@ -46,9 +47,9 @@ _, share, price, _ = data
 ```
 def sum(items):
 
-	 head, *tail = items
+  head, *tail = items
 
-	 return head + sum(tail) if tail else head
+  return head + sum(tail) if tail else head
 ```
 
 
@@ -56,11 +57,11 @@ def sum(items):
 
 保留最后的N个元素
 
-    deque(maxlen=N)`创建了一个固定长度的队列，方法有append（）
+    deque(maxlen=N)创建了一个固定长度的队列，方法有append（）
 
 需要一个简单的队列结构时，用deque。**不指定队列大小，得到一个无界限的队列**
 
-deque队列可以从两边插入，append()，appendleft() 也可以从两边弹出，pop()，popleft()  **复杂度O(1)**,列表**O(N)**
+deque队列可以从两边插入，append()，appendleft() 也可以从两边弹出，pop()，popleft().  **复杂度O(1)**,列表**O(N)**
  
 
 **保存有限记录，collections.deque 完美应用场景**
@@ -73,15 +74,15 @@ def search(lines, pattern, history=5):
   for line in lines:
     if pattern in line:
 		yield line, previous_lines
-	previous_lines.append(line)
+    previous_lines.append(line)
 
 if __name__ = '__main__':
-	with open('file.txt') as f:
-		for line, prevlines in search(f, 'python', 4):
-			for pline in prevlines:
-				print(pline, end='')
-			print(line, end='')
-			print('-'*20)
+    with open('file.txt') as f:
+      for line, prevlines in search(f, 'python', 4):
+        for pline in prevlines:
+            print(pline, end='')
+        print(line, end='')
+        print('-'*20)
 
 ```
   
