@@ -77,10 +77,14 @@ OrderDict 内部维护了一个双向链表，所以**OrderDict大小是普通�
 
 字典相关运算：
 prices是一个字典，键是商品，值是价格。利用zip函数将字典键值反转。
-    min_prices = min(zip(prices.values(), prices.keys()))
+    
+`min_prices = min(zip(prices.values(), prices.keys()))`
+
 
 对字典进行排序，只需加上sorted().
-    prices_sorted = sorted(zip(prices.values(), prices.keys()))
+    
+`prices_sorted = sorted(zip(prices.values(), prices.keys()))`
+
 
 **zip()创建的是迭代器，内容只能被消费一次**，举例上面min_prices只能被消费一次。
 
