@@ -6,7 +6,7 @@ date:       2016-11-04
 author:     "Deng"
 header-img: "img/post-bg-Ted.jpg"
 tags:
-    - python
+    - 小思
 ---
 ### 为掌握而学习而不是分数 ###
 
