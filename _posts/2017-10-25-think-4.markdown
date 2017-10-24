@@ -4,7 +4,7 @@ title:      "我想抱大腿"
 subtitle:   "哈哈"
 date:       2017-10-24
 author:     "Deng"
-header-img: "img/leg.jpg"
+header-img: "img/post-us-11.jpg"
 tags:
     - daily
 ---
@@ -24,7 +24,7 @@ tags:
 
 哈哈，想起了超佩同学给我发的大腿。
 
-![img](/img/in-post/leg.jpg)
+![img](/img/leg.jpg)
 
 其实超佩胖胖的，我也喜欢。想见超佩，哈哈，胖胖的超佩。微胖的女生也挺好的，古代称之为丰满，也为一种美。
 
