@@ -11,7 +11,7 @@ tags:
 
 >
 
-1. ​
+
 
 - When it come's to _ ,opinions vary. Some seem to assert that _. Others, however,  may argue that _ . I am strongly convinced that _.
 - The scientists have been convinced that _ .
@@ -24,7 +24,7 @@ tags:
 
 ---
 
-2. ​
+
 
 - slowing / falling / fading / declining
 - slowing economy 
@@ -54,8 +54,6 @@ tags:
 ---
 
 
-
-3. ​
 
 - bite one's nails / scratch one's head
 - When it comes to _ , sb is biting his nails / scratching his head.
