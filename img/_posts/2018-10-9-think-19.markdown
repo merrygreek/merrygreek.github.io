@@ -4,10 +4,10 @@ title:      "提高认知"
 subtitle:   "读书笔记"
 date:       2018-10-9
 author:     "Deng"
-header-img: "img/mmexport1510067172982.jpg"
+header-img: 
 tags:
     - 读书笔记
 ---
 
 ![00](/img/x1.png)
-![11](/img/x1+.jpg)
+![11](/img/x1+.png)
