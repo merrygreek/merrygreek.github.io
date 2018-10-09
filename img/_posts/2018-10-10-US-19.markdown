@@ -1,0 +1,11 @@
+---
+layout:     post
+title:      "如下"
+subtitle:   
+date:       2018-10-9
+author:     "Deng"
+header-img: "img/tian.jpg"
+tags:
+    - 随感
+---
+屏幕前的你 要开心 要笑 要好好生活：）
