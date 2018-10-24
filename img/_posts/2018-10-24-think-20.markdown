@@ -1,0 +1,15 @@
+---
+layout:     post
+title:      "关于英语的思考"
+subtitle:   "关键在于坚持"
+date:       2018-10-24
+author:     "Deng"
+header-img: img/tian.jpg"
+tags:
+    - 读书笔记
+---
+>当你随波逐流的时候，时间就过去了，有时候你要学会拒绝，勇敢地说不，即使是朋友。
+
+### 下面是所做的思维导图： ###
+![00](/img/english.png)
+2018-10-24 22:26:37
