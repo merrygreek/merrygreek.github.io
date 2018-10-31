@@ -1,0 +1,17 @@
+---
+layout:     post
+title:      "少的力量"
+subtitle:   "专注"
+date:       2018-10-31
+author:     "Deng"
+header-img: img/tian.jpg"
+tags:
+    - 读书笔记
+---
+>慢一点
+
+### 如何高效学习 ###
+以下是读书笔记：
+![00](/img/少的力量.png)
+未完；
+2018-10-31 23:05:53
