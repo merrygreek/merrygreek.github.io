@@ -1,4 +1,13 @@
-
+---
+layout:     post
+title:      "pandas"
+subtitle:   "1"
+date:       2019-04-23
+author:     "Deng"
+header-img: "img/post-us-17.jpg"
+tags:
+    - daily
+---
 
 ```python
 from pandas import Series,DataFrame
