@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "不能跟你一起的理由”
+title:      "不能跟你一起的理由"
 subtitle:   "如下"
 date:       2020-01-30
 author:     "Deng"

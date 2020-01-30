@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "我喜欢你”
+title:      "我喜欢你"
 subtitle:   "向颖彤"
 date:       2020-01-30
 author:     "Deng"
