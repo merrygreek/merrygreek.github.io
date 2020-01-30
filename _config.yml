@@ -4,7 +4,7 @@ SEOTitle: 博客 | Deng Blog
 header-img: img/home-bg.jpg
 email: merrygreek@163.com
 description: "python | think | 生活与思考 | 情感"
-keyword: "merrygreek, python, think, 博客, 个人网站, 互联网, 超佩, 超佩的男朋友"
+keyword: "merrygreek, python, think, 博客, 个人网站, 互联网, 颖彤"
 url: "http://mycpl.cc"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
@@ -90,7 +90,7 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "超佩",
+        title: "颖彤",
         href: "#"
     },{
         title: "空空如也",
