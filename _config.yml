@@ -5,14 +5,14 @@ header-img: img/home-bg.jpg
 email: merrygreek@163.com
 description: "python | think | 生活与思考 | 情感"
 keyword: "merrygreek, python, think, 博客, 个人网站, 互联网, 颖彤"
-url: "http://mycpl.cc"              # your host, for absolute URL
+url: "http://xyt.cool"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 
 
 # SNS settings
 RSS: false
-weibo_username:     昌叔1994
+weibo_username:     nul
 zhihu_username:     邓健昌
 github_username:    merrygreek
 #twitter_username:  huxpro
