@@ -71,7 +71,7 @@ duoshuo_share: true                     # set to false if you want to use Commen
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "知行合一。做一个对己诚实待人正直的，纯真的人。"
-sidebar-avatar: /img/avatar-deng.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: http://q4yabvco1.bkt.clouddn.com/avatar-deng.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
