@@ -4,7 +4,7 @@ title:      "我喜欢你"
 subtitle:   "向颖彤"
 date:       2020-01-30
 author:     "Deng"
-header-img: "img/post-us-3.jpg"
+header-img: "http://q4yabvco1.bkt.clouddn.com/post-us-3.jpg"
 tags:
     - us
 ---

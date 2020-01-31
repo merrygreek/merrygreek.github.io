@@ -4,7 +4,7 @@ title:      "来自颖彤的心里话"
 subtitle:   "一"
 date:       2020-01-30
 author:     "Deng"
-header-img: "img/post-tong-1.jpg"
+header-img: "http://q4yabvco1.bkt.clouddn.com/post-tong-1.jpg"
 tags:
     - us
 ---

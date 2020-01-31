@@ -4,7 +4,7 @@ title:      "不能跟你一起的理由"
 subtitle:   "如下"
 date:       2020-01-30
 author:     "Deng"
-header-img: "img/post-us-2.jpg"
+header-img: "http://q4yabvco1.bkt.clouddn.com/post-us-2.jpg"
 tags:
     - us
 ---
