@@ -90,7 +90,7 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "颖彤",
+        title: "超人",
         href: "#"
     },{
         title: "空空如也",
