@@ -1,10 +1,10 @@
 # Site settings
 title: Deng Blog
 SEOTitle: 博客 | Deng Blog
-header-img: http://q4yabvco1.bkt.clouddn.com/home-bg.jpg
+header-img: https://s1.ax1x.com/2020/04/04/G0poFO.md.png
 email: merrygreek@163.com
 description: "python | think | 生活与思考 | 情感"
-keyword: "merrygreek, python, think, 博客, 个人网站, 互联网, 颖彤"
+keyword: "merrygreek, python, think, 博客, 个人网站, 互联网"
 url: "http://xyt.cool"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
@@ -71,7 +71,7 @@ duoshuo_share: true                     # set to false if you want to use Commen
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "知行合一。做一个对己诚实待人正直的，纯真的人。"
-sidebar-avatar: http://q4yabvco1.bkt.clouddn.com/avatar-deng.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: https://s1.ax1x.com/2020/04/04/G0iNNV.md.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
