@@ -4,7 +4,7 @@ title:      "爱上的古文"
 subtitle:   "唯美"
 date:       2018-11-5
 author:     "Deng"
-header-img: img/tian.jpg"
+header-img: 
 tags:
     - 读书笔记
 ---
