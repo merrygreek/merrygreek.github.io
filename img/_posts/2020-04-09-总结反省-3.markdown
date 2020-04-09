@@ -1,0 +1,88 @@
+---
+layout:     post
+title:      "总结反省-3"
+subtitle:   "每日"
+date:       2020-04-09
+author:     "Deng"
+header-img: 
+tags:
+    - 总结
+
+
+
+---
+
+> 坚持
+
+- 遇事容易焦虑
+- 还是在漫游生活--没有强烈的动力和冲劲，按部就班式
+- 沟通欠缺
+- 没有养成勤思考的习惯、遇事直线没有进入思考
+- 早睡刻不容缓
+
+
+
+pandas的学习
+
+---
+
+
+
+- ```python
+  fixed_df = pd.read_csv('../data/bikes.csv', sep=';', encoding='latin1', parse_dates=['Date'], dayfirst=True, index_col='Date')
+  
+  complaints[['Complaint Type', 'Borough']]
+  
+  complaint_counts = complaints['Complaint Type'].value_counts()
+  
+  noise_complaints = complaints[complaints['Complaint Type'] == "Noise - Street/Sidewalk"]
+  
+  complaints['Complaint Type'] == "Noise - Street/Sidewalk"
+  
+  complaints[is_noise & in_brooklyn][['Complaint Type', 'Borough', 'Created Date', 'Descriptor']][:10]
+  
+  np.array([1,2,3])  pd.Series([1,2,3]).values
+  
+  berri_bikes.index.day
+  
+  berri_bikes.index.weekday
+  
+  berri_bikes.loc[:,'weekday'] = berri_bikes.index.weekday
+  
+  weekday_counts = berri_bikes.groupby('weekday').aggregate(sum)
+  
+  weekday_counts.index = ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday']
+  
+  weather_mar2012 = weather_mar2012.dropna(axis=1, how='any')
+  
+  weather_mar2012 = weather_mar2012.drop(['Year', 'Month', 'Day', 'Time', 'Data Quality'], axis=1)
+  
+  weather_description = weather_2012['Weather']
+  is_snowing = weather_description.str.contains('Snow')
+  
+  weather_2012['Temp (C)'].resample('M').apply(np.median).plot(kind='bar')
+  
+  stats = pd.concat([temperature, snowiness], axis=1)
+  ```
+
+  暗时间
+
+  ---
+
+  如何有效地记忆与学习
+
+  - 记忆场景--多条线索---环境、气味、声音
+  - 费曼学习法的重要性---与其他的知识相关联
+  - 养成习惯---主动回顾知识
+  - 创造回忆的机会：例如给别人讲解
+  - 思考的时候设身处地
+  - 抽象和本质
+
+学习密度与专注力
+
+- 番茄工作法凸显其重要性---表层意识和潜意识都专注于一件事--那才是真正的专注
+- 焦虑积压在潜意识中---削弱专注力---简单生活的重要性
+
+设计你自己的进度条
+
+- 设计进度条---任务分割、目标分割---所有的东西设计一个进度条
